@@ -44,7 +44,7 @@ http://localhost:8080/swagger-ui/index.html
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/MockPaymentSystem.git
+git clone https://github.com/k540r/MockPaymentSystem.git
 ```
 ### 2. Configure PostgreSQL in application.properties
 
